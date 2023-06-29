@@ -1,4 +1,5 @@
 ## HDFS-Plugin
+> BSc Thesis Supervisor: [Dr. Mahmoud Momtazpour](https://scholar.google.co.za/citations?user=uwozfWkAAAAJ&hl=en)
 
 kubectl plugin for [HDFS-operator](https://github.com/AmirAllahveran/HDFS-operator) project
 
